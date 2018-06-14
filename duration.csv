@@ -1,0 +1,102 @@
+
+start_station_name,end_station_name,trips,avg_duration_min
+Harry Bridges Plaza (Ferry Building),Embarcadero at Sansome,9150,19.8
+San Francisco Caltrain 2 (330 Townsend),Townsend at 7th,8508,5.11
+2nd at Townsend,Harry Bridges Plaza (Ferry Building),7620,9.7
+Harry Bridges Plaza (Ferry Building),2nd at Townsend,6888,10.63
+Embarcadero at Sansome,Steuart at Market,6874,8.52
+Townsend at 7th,San Francisco Caltrain 2 (330 Townsend),6836,4.65
+Embarcadero at Folsom,San Francisco Caltrain (Townsend at 4th),6351,11.63
+San Francisco Caltrain (Townsend at 4th),Harry Bridges Plaza (Ferry Building),6215,13.28
+Steuart at Market,2nd at Townsend,6039,9.59
+Steuart at Market,San Francisco Caltrain (Townsend at 4th),5959,12.17
+Temporary Transbay Terminal (Howard at Beale),San Francisco Caltrain (Townsend at 4th),5796,11.08
+Harry Bridges Plaza (Ferry Building),San Francisco Caltrain (Townsend at 4th),5395,14.31
+Townsend at 7th,San Francisco Caltrain (Townsend at 4th),5358,4.93
+2nd at South Park,Market at Sansome,5337,7.94
+San Francisco Caltrain (Townsend at 4th),Temporary Transbay Terminal (Howard at Beale),5196,12.03
+Market at 10th,San Francisco Caltrain 2 (330 Townsend),5118,10.16
+Steuart at Market,Embarcadero at Sansome,5110,13.21
+Market at Sansome,2nd at South Park,5063,6.71
+Embarcadero at Sansome,Harry Bridges Plaza (Ferry Building),4737,14.63
+San Francisco Caltrain 2 (330 Townsend),Powell Street BART,4492,9.64
+San Francisco Caltrain (Townsend at 4th),Embarcadero at Folsom,4440,10.67
+San Francisco Caltrain 2 (330 Townsend),5th at Howard,4433,6.8
+Powell Street BART,San Francisco Caltrain 2 (330 Townsend),4417,8.26
+San Francisco Caltrain (Townsend at 4th),Steuart at Market,4367,12.83
+Howard at 2nd,San Francisco Caltrain (Townsend at 4th),4304,8.71
+2nd at Townsend,Steuart at Market,4273,9.62
+Mountain View Caltrain Station,Mountain View City Hall,3852,6.85
+Market at 4th,San Francisco Caltrain (Townsend at 4th),3818,9.84
+San Francisco Caltrain (Townsend at 4th),Market at Sansome,3801,13.51
+Townsend at 7th,Civic Center BART (7th at Market),3771,8.65
+San Francisco Caltrain 2 (330 Townsend),Market at 10th,3755,14.09
+Market at Sansome,San Francisco Caltrain (Townsend at 4th),3749,11.56
+Civic Center BART (7th at Market),Townsend at 7th,3698,9.83
+Market at 10th,San Francisco Caltrain (Townsend at 4th),3610,12.74
+2nd at Folsom,Market at Sansome,3597,5.53
+Mountain View City Hall,Mountain View Caltrain Station,3520,7.09
+San Francisco Caltrain (Townsend at 4th),Howard at 2nd,3468,9.12
+Beale at Market,San Francisco Caltrain (Townsend at 4th),3451,12.38
+2nd at Folsom,San Francisco Caltrain (Townsend at 4th),3292,9.14
+5th at Howard,San Francisco Caltrain 2 (330 Townsend),3222,7.78
+Santa Clara at Almaden,San Jose Diridon Caltrain Station,3215,8.13
+Temporary Transbay Terminal (Howard at Beale),2nd at Townsend,3207,8.67
+San Francisco Caltrain (Townsend at 4th),Townsend at 7th,3196,5.99
+San Jose Diridon Caltrain Station,Santa Clara at Almaden,3171,4.86
+Steuart at Market,San Francisco Caltrain 2 (330 Townsend),3162,12.06
+Grant Avenue at Columbus Avenue,Market at Sansome,3153,9.15
+Market at 10th,Market at 4th,3146,8.71
+Embarcadero at Bryant,San Francisco Caltrain (Townsend at 4th),3043,10.26
+San Francisco Caltrain 2 (330 Townsend),Harry Bridges Plaza (Ferry Building),3027,12.69
+Temporary Transbay Terminal (Howard at Beale),San Francisco Caltrain 2 (330 Townsend),2963,10.4
+Powell Street BART,Market at 10th,2870,12.81
+Embarcadero at Sansome,Embarcadero at Sansome,2866,72.1
+2nd at Townsend,Market at Sansome,2830,9.75
+San Francisco Caltrain 2 (330 Townsend),Embarcadero at Folsom,2828,10.55
+San Francisco Caltrain (Townsend at 4th),Davis at Jackson,2687,14.17
+Davis at Jackson,San Francisco Caltrain (Townsend at 4th),2642,15.26
+Clay at Battery,San Francisco Caltrain (Townsend at 4th),2631,15.43
+San Francisco Caltrain 2 (330 Townsend),Temporary Transbay Terminal (Howard at Beale),2594,11.31
+Yerba Buena Center of the Arts (3rd @ Howard),San Francisco Caltrain (Townsend at 4th),2592,7.26
+Market at 4th,Market at 10th,2584,11.77
+San Francisco Caltrain 2 (330 Townsend),Howard at 2nd,2552,8.66
+San Francisco Caltrain (Townsend at 4th),Yerba Buena Center of the Arts (3rd @ Howard),2537,7.98
+Castro Street and El Camino Real,Mountain View Caltrain Station,2531,8.29
+Embarcadero at Folsom,San Francisco Caltrain 2 (330 Townsend),2520,10.59
+San Francisco Caltrain 2 (330 Townsend),Steuart at Market,2512,11.84
+San Francisco Caltrain (Townsend at 4th),2nd at Townsend,2492,6.89
+Market at Sansome,2nd at Townsend,2482,9.05
+San Francisco Caltrain (Townsend at 4th),Market at 10th,2469,14.03
+5th at Howard,San Francisco Caltrain (Townsend at 4th),2468,7.92
+2nd at South Park,San Francisco Caltrain (Townsend at 4th),2425,6.62
+Broadway St at Battery St,San Francisco Caltrain (Townsend at 4th),2393,15.62
+Harry Bridges Plaza (Ferry Building),Harry Bridges Plaza (Ferry Building),2364,99.69
+Howard at 2nd,San Francisco Caltrain 2 (330 Townsend),2355,9.4
+2nd at Townsend,San Francisco Caltrain (Townsend at 4th),2353,8.64
+Embarcadero at Vallejo,Steuart at Market,2350,8.16
+San Francisco Caltrain (Townsend at 4th),Embarcadero at Sansome,2317,21.14
+San Francisco Caltrain (Townsend at 4th),Embarcadero at Bryant,2307,10.29
+San Francisco Caltrain 2 (330 Townsend),Market at Sansome,2303,12.61
+Spear at Folsom,San Francisco Caltrain (Townsend at 4th),2281,10.08
+Mountain View Caltrain Station,Castro Street and El Camino Real,2266,9.7
+Embarcadero at Bryant,Embarcadero at Sansome,2250,23.72
+Market at Sansome,Harry Bridges Plaza (Ferry Building),2214,12.11
+Market at 10th,Powell Street BART,2208,10.3
+2nd at South Park,Harry Bridges Plaza (Ferry Building),2186,10.4
+Powell Street BART,San Francisco Caltrain (Townsend at 4th),2186,12.78
+Townsend at 7th,Harry Bridges Plaza (Ferry Building),2184,15.51
+San Francisco Caltrain (Townsend at 4th),Powell Street BART,2178,13.67
+2nd at Townsend,Temporary Transbay Terminal (Howard at Beale),2133,8.36
+San Francisco Caltrain (Townsend at 4th),Beale at Market,2125,14.31
+Temporary Transbay Terminal (Howard at Beale),Townsend at 7th,2123,14.37
+Embarcadero at Bryant,Harry Bridges Plaza (Ferry Building),2102,11.11
+Temporary Transbay Terminal (Howard at Beale),5th at Howard,2080,7.26
+Steuart at Market,Embarcadero at Bryant,2043,8.79
+Embarcadero at Sansome,San Francisco Caltrain (Townsend at 4th),2023,20.92
+Market at Sansome,San Francisco Caltrain 2 (330 Townsend),1953,12.24
+Embarcadero at Folsom,2nd at Townsend,1931,9.73
+Harry Bridges Plaza (Ferry Building),San Francisco Caltrain 2 (330 Townsend),1914,16.48
+San Francisco Caltrain (Townsend at 4th),Clay at Battery,1905,15.63
+San Francisco Caltrain (Townsend at 4th),5th at Howard,1869,7.63
+Harry Bridges Plaza (Ferry Building),Townsend at 7th,1858,16.89
